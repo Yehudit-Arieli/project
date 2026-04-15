@@ -91,7 +91,6 @@ When the app runs:
 Success: User joined game
 ```
 
-```md
 ---
 
 This project is fully containerized.
